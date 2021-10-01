@@ -1,5 +1,5 @@
 # Movies-Database-ETL (Extract Transform Load)
-Design database based on the given movie data and create the database using MySQL. Create an ETL script using python based on the database which take on the .csv file and insert the data into the existing database.
+Design a database based on the given movie data and create the database using MySQL. Create an ETL script using python based on the database which take on the .csv file and insert the data into the existing database.
 
 ## General Overview
 Based on the data given ([movies.csv](https://github.com/muyassarhafizh/Movies-Database-ETL/blob/main/Data/movies.csv)), here are 3 process that is done in this project:
@@ -18,8 +18,8 @@ Enviroment:
 
 Software:
 
-Jupyter Notebook
-MySQL Workbench 3.0
+- Jupyter Notebook
+- MySQL Workbench 3.0
 
 ## Other Articles
 - [Map function](https://www.geeksforgeeks.org/difference-between-map-applymap-and-apply-methods-in-pandas/)
